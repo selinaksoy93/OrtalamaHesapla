@@ -77,7 +77,6 @@ class MainActivity : AppCompatActivity() {
         return index
 
     }
-
     fun sifirla() {
         girilenders.setText("")
         secKredi.setSelection(0)
